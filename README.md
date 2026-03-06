@@ -6,7 +6,7 @@ This repository contains the schematic and PCB layout of an FM transmitter syste
 
 ## Schematic
 
-![Schematic](images/schematic.png)
+![Schematic](FM_Transmitter_System_B.SILK.jpg)
 
 ---
 
