@@ -6,17 +6,17 @@ This repository contains the schematic and PCB design for an FM transmitter syst
 
 ## Schematic
 
-![Schematic](images/schematic.png)
+![Schematic](images/Schematic.png)
 
 ---
 
 ## PCB 3D View
 
 ### Front View
-![PCB Front](images/FM_Transmitter_System_F.SILK.png)
+![PCB Front](images/FM_Transmitter_System_F.SILK.jpg)
 
 ### Back View
-![PCB Back](images/FM_Transmitter_System_B.SILK.png)
+![PCB Back](images/FM_Transmitter_System_B.SILK.jpg)
 
 ---
 
